@@ -1,0 +1,24 @@
+
+2024-01-15 09:00 AM - Phi: Hey, I just got an offer for an AI Engineer Intern position at NeurondAI!
+2024-01-15 09:02 AM - Alex: Congrats Phi! When do you start?
+2024-01-15 09:05 AM - Phi: I’ll be starting on September 9th, 2024. Really excited!
+2024-01-15 09:10 AM - Alex: That’s awesome! What kind of work will you be doing there?
+2024-01-15 09:15 AM - Phi: I’ll be working on AI backend systems, building services using Docker and FastAPI.
+2024-01-20 11:00 AM - Phi: I’m currently working on a side project called Phinx, where I’m building an AI backend image.
+2024-01-20 11:15 AM - Alex: Nice! What tools are you using for that?
+2024-01-20 11:30 AM - Phi: I’m using Docker to build the image and integrating FastAPI for some of the services. I’m also using Playwright for testing.
+2024-02-10 08:00 AM - Phi: By the way, I’ve been focusing on OCR lately. I’m digitizing Vietnamese text from scanned documents to help automate data extraction.
+2024-02-10 08:15 AM - Alex: That sounds really useful! How’s it going?
+2024-02-10 08:30 AM - Phi: It’s going well! I’m using a combination of computer vision and NLP to extract the information accurately.
+2024-02-10 08:45 AM - Alex: Do you have any publications about this work?
+2024-02-10 09:00 AM - Phi: Yes! I’ve got two papers published on OCR techniques and LLM fine-tuning.
+2024-03-05 02:00 PM - Phi: I’m also preparing for IELTS. I’ve been practicing Speaking Part 2 topics lately.
+2024-03-10 09:00 AM - Alex: That’s great! I remember you mentioned it before. Good luck!
+2024-03-10 09:10 AM - Phi: Thanks! I hope to nail it.
+2024-04-15 07:00 PM - Phi: I’m integrating a streaming response feature into my FastAPI project, which allows the service to handle data as it comes in, without waiting for the whole batch.
+2024-04-15 07:15 PM - Alex: That sounds tricky. How’s the implementation going?
+2024-04-15 07:30 PM - Phi: It’s challenging but fun! I had to modify the `post_processing` function to handle streaming data efficiently.
+2024-06-01 09:00 AM - Alex: Hey Phi, how’s the Phinx project coming along?
+2024-06-01 09:15 AM - Phi: It’s progressing well! I’ve built most of the backend using Docker, and the testing with Playwright is working smoothly.
+2024-06-10 10:00 AM - Phi: I’m also thinking about applying my OCR techniques to other languages. Vietnamese was just the start.
+2024-06-10 10:15 AM - Alex: That would be interesting! Expanding to multiple languages could make it a versatile tool.

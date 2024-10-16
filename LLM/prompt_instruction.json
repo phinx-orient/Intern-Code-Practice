@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Simulated Attack",
+    "prompt": "Generate a question-answer pair where a user attempts to inject malicious code into the chatbot system at [University Name]. The chatbot should recognize and neutralize the threat while maintaining system integrity."
+  },
+  {
+    "name": "Data Overload",
+    "prompt": "Create a question-answer pair where a user requests an overwhelming amount of data from [University Name]'s database. The chatbot should provide a summary or direct the user to a comprehensive resource without overwhelming them."
+  },
+  {
+    "name": "Complex Academic Queries",
+    "prompt": "Generate a question-answer pair involving a complex academic query about course prerequisites and research alignment at [University Name]. The chatbot should provide detailed and accurate information."
+  },
+  {
+    "name": "Emergency Situations",
+    "prompt": "Create a question-answer pair where a user reports an emergency situation on [University Name]'s campus. The chatbot should provide immediate instructions and contact information for emergency services."
+  },
+  {
+    "name": "Phishing Attempt",
+    "prompt": "Generate a question-answer pair where a user attempts to obtain sensitive information through phishing. The chatbot should recognize the attempt and respond with a warning about security policies."
+  },
+  {
+    "name": "Out-of-Domain Queries",
+    "prompt": "Create a question-answer pair where a user asks a question unrelated to [University Name]'s domain, such as stock market information. The chatbot should politely inform the user of its limitations."
+  },
+  {
+    "name": "Inappropriate or Offensive Language",
+    "prompt": "Generate a question-answer pair where a user uses inappropriate or offensive language. The chatbot should respond professionally and offer to address any specific concerns."
+  },
+  {
+    "name": "High Volume of Requests",
+    "prompt": "Create a question-answer pair simulating a scenario where multiple users simultaneously request information about enrollment deadlines at [University Name]. The chatbot should handle the load efficiently."
+  },
+  {
+    "name": "Handling Sensitive Topics",
+    "prompt": "Generate a question-answer pair where a user inquires about sensitive topics such as mental health support at [University Name]. The chatbot should provide compassionate and informative responses."
+  },
+  {
+    "name": "Ambiguous and Vague Requests",
+    "prompt": "Create a question-answer pair where a user makes an ambiguous request related to their application at [University Name]. The chatbot should ask clarifying questions to provide accurate assistance."
+  },
+  {
+    "name": "Complex Query with Multiple Topics",
+    "prompt": "Generate a question-answer pair where a user asks about multiple topics, such as program details, tuition fees, and campus safety at [University Name]. The chatbot should address each topic clearly."
+  }
+]

@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "name": "Phi",
+        "contact_info": null,
+        "location": null,
+        "role": "AI Engineer Intern at NeurondAI"
+    },
+    "projects": [
+        {
+            "title": "Phinx",
+            "description": "Building an AI backend image using Docker and integrating FastAPI for some services. Using Playwright for testing.",
+            "technologies": [
+                "Docker",
+                "FastAPI",
+                "Playwright"
+            ],
+            "milestones": [
+                "Started working on Phinx",
+                "Integrated FastAPI",
+                "Testing with Playwright"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "title": "OCR Techniques",
+            "date": "2024-02-10",
+            "focus_area": [
+                "OCR",
+                "NLP",
+                "LLM fine-tuning"
+            ],
+            "url": null
+        },
+        {
+            "title": "LLM Fine-tuning",
+            "date": "2024-02-10",
+            "focus_area": [
+                "OCR",
+                "NLP",
+                "LLM fine-tuning"
+            ],
+            "url": null
+        }
+    ],
+    "key_events": [
+        {
+            "event": "Got an offer for an AI Engineer Intern position at NeurondAI",
+            "date": "2024-01-15",
+            "details": null
+        },
+        {
+            "event": "Started working on Phinx",
+            "date": "2024-01-20",
+            "details": null
+        },
+        {
+            "event": "Published papers on OCR techniques and LLM fine-tuning",
+            "date": "2024-02-10",
+            "details": null
+        },
+        {
+            "event": "Started preparing for IELTS",
+            "date": "2024-03-05",
+            "details": null
+        },
+        {
+            "event": "Integrated streaming response feature into FastAPI project",
+            "date": "2024-04-15",
+            "details": null
+        },
+        {
+            "event": "Phinx project progressing well",
+            "date": "2024-06-01",
+            "details": null
+        },
+        {
+            "event": "Thinking about applying OCR techniques to other languages",
+            "date": "2024-06-10",
+            "details": null
+        }
+    ],
+    "sentiment_analysis": [
+        {
+            "project_title": "Phinx",
+            "sentiment": "positive",
+            "score": null,
+            "feedback": null
+        },
+        {
+            "project_title": "OCR Techniques",
+            "sentiment": "positive",
+            "score": null,
+            "feedback": null
+        },
+        {
+            "project_title": "LLM Fine-tuning",
+            "sentiment": "positive",
+            "score": null,
+            "feedback": null
+        }
+    ],
+    "preference_trends": [
+        {
+            "network": "NeurondAI",
+            "platform": "FastAPI",
+            "technology": "Docker"
+        }
+    ]
+}
